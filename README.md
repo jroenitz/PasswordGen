@@ -1,2 +1,2 @@
-# PasswordGen
-homework for password gen
+# homework3Password
+A random password generator 
